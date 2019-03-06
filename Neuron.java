@@ -1,3 +1,8 @@
+/*
+  Andrzejewski Przemko
+  Wprowadzenie do teorii sieci neuronowych cw.1
+  java
+*/
 public class Neuron {
   private double[] weights;
 
