@@ -1,3 +1,8 @@
+/*
+  Andrzejewski Przemko
+  Wprowadzenie do teorii sieci neuronowych cw.2
+  java
+*/
 import java.io.*;
 import java.util.Arrays;
 
