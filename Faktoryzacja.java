@@ -1,6 +1,6 @@
 /*
   Andrzejewski Przemko
-  Wprowadzenie do teorii sieci neuronowych cw.8
+  Wprowadzenie do teorii sieci neuronowych cw.9
   java
 */
 import java.util.Random;
