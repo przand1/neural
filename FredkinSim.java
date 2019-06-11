@@ -148,8 +148,8 @@ public class FredkinSim {
                 outIter++;
               }
             }
-            //if(output[0]==0&&output[1]==1&&output[2]==1&&output[3]==0)// XOR
-            if(output[0]==0&&output[1]==0&&output[2]==0&&output[3]==1)// AND
+            if(output[0]==0&&output[1]==1&&output[2]==1&&output[3]==0)// XOR
+            // if(output[0]==0&&output[1]==0&&output[2]==0&&output[3]==1)// AND
               System.out.println("Input: "+i+j+k+l+"\tOutput: "+Arrays.toString(output));
           }
         }
